@@ -1,6 +1,6 @@
 # Soy Daniela Porto Aguilera
 
-Una Desarrolladora de Software 🧑‍💻 especializada en **Python** 🐍 y el ecosistema **Django** 🚀, con la habilidad de construir aplicaciones sólidas y eficientes. Me especializo en el desarrollo de software orientado al **sector agronómico 🌱, la agricultura sustentable y las soluciones orgánicas**, abarcando desde la ideación hasta la implementación del producto final.
+Una Desarrolladora de Software, Full Stack Developer 🧑‍💻 especializada en **Python** 🐍 y el ecosistema **Django** 🚀, con la habilidad de construir aplicaciones sólidas y eficientes. Me especializo en el desarrollo de software orientado al **sector agronómico 🌱, la agricultura sustentable y las soluciones orgánicas**, abarcando desde la ideación hasta la implementación del producto final.
 
 Me apasiona crear soluciones tecnológicas que optimicen los procesos agronómicos, promuevan prácticas sostebles en el tiempo y faciliten el trabajo diario en el campo. Estoy siempre en busca de transformar ideas en soluciones tangibles 💡, y disfruto cada paso del proceso creativo para hacer que la tecnología en zonas rurales sea accesible, eficiente y moderna.
 
@@ -36,11 +36,14 @@ Mi objetivo en la industria TI es cultivar soluciones que aporten valor real. Me
 **🧑‍💻 Lenguajes de programación**
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
+
 </div>
 
 **🔨 Desarrollo Backend**
 <div align="left">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails" />
 </div>
 
 **🎨 Desarrollo Frontend**
@@ -48,11 +51,34 @@ Mi objetivo en la industria TI es cultivar soluciones que aporten valor real. Me
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+
 </div>
 
 **🔧 Base de datos**
 <div align="left">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</div>
+
+**📎 Platform as a Service (PaaS)**
+<div align="left">
+  <img src="https://img.shields.io/badge/Render-2B2D42?style=for-the-badge&logo=render&logoColor=white)" alt="Render" />
+</div>
+
+**🔒️ DevOps**
+<div align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+</div>
+
+**🗃️ Software**
+<div align="left">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/DBeaver-EE0000?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
+  
 </div>
 
 **📝 Sistema de control de versiones**
