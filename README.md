@@ -78,7 +78,7 @@ Mi objetivo en la industria TI es cultivar soluciones que aporten valor real. Me
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/DBeaver-EE0000?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
-  
+
 </div>
 
 **📝 Sistema de control de versiones**
@@ -89,5 +89,3 @@ Mi objetivo en la industria TI es cultivar soluciones que aporten valor real. Me
 
 ---
 ⭐️ *De código a semilla, cultivando tecnología.* ⭐️
-
-# danielaportoa
