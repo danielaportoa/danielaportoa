@@ -16,7 +16,7 @@ Mi objetivo en la industria TI es cultivar soluciones que aporten valor real. Me
 ### 🌐 Conecta conmigo
 
 - 👨‍💻 Todos mis proyectos están disponibles en [Github] https://github.com/danielaportoa
-- 💼 Conecta conmigo y mira mi trayectoria en [LinkedIn] https://www.linkedin.com/in/daniela-porto-aguilera/
+- 💼 Conecta conmigo y mira mi trayectoria en [LinkedIn] https://www.linkedin.com/in/danielaportoaguilera/
 - 🌍 Conoce más sobre mis servicios en mi [Portafolio Web] https://danielaportoa.github.io/
 
 ### 💡 Habilidades y conocimientos
